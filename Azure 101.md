@@ -1,4 +1,5 @@
 # Azure 101
+**Description:** Azure 101 is a 3-day event divided into 3 modules an hour each that covers the fundamentals of Azure, Azure Services like Web App Service, Cognitive Service, and a demo on Bot Service. Intended for beginners, the sessions delve around Azure with references to real life applications while giving a clear idea about how these different services can be used.
 
 **Speakers**: Rishu Chaudhary, Srishti Poudel, Aadit Pant, Manish Bhattarai, Aishwarya Sapkota.
 
@@ -19,4 +20,4 @@
 
 
 **Date:** 23 Sep 2020 - 25 Sep 2020
-Join the event live on [YouTube](bit.ly/StudentAmbassadorsNepalLive).
+Join the event live on [YouTube](https://bit.ly/StudentAmbassadorsNepalLive).
