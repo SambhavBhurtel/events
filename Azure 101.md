@@ -20,4 +20,7 @@
 
 
 **Date:** 23 Sep 2020 - 25 Sep 2020
+
+**Time:** 5:30 PM - 6:15 PM (NPT)
+
 Join the event live on [YouTube](https://bit.ly/StudentAmbassadorsNepalLive).
