@@ -3,14 +3,20 @@
 
 **Speakers**: Rishu Chaudhary, Srishti Poudel, Aadit Pant, Manish Bhattarai, Aishwarya Sapkota.
 
+**Host**: Sambhav Bhurtel
+
 **Event Agenda:**
-**Day 1**
+**Day 1** 
  1. A short intro to Azure - Srishti Poudel
  2. Azure Portal and Services - Aadit Pant
+
+*Day 1 recorded version here*: [Azure 101 - Day 1](https://youtu.be/eYW7X7w0rSY)
 
 **Day 2** 
 
  3. Introduction to Azure Cognitive Services - Manish Bhattarai
+
+*Day 2 recorded version here*: [Azure 101 - Day 2](https://youtu.be/jArTb1BnjLE)
 
 **Day 3**
 
