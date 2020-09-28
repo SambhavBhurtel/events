@@ -14,7 +14,7 @@
 2. Azure API Key Generation and aigaming code submission - Prazol Bista
 3. Optimizing the bot for better performance - Anwesh Budhathoki
 
-*You can view the recorded sessions here on this [YouTube Link](https://www.youtube.com/watch?v=8tIRTl8tthE)
+*You can view the recorded sessions here on this [YouTube Link](https://www.youtube.com/watch?v=8tIRTl8tthE).*
 
 **Date:** 26 Sep 2020
 
