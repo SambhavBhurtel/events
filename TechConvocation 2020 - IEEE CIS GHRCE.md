@@ -25,6 +25,3 @@ Since the event was a competition, the top three candidates were awarded with ce
 |1. | Winner | **Hadjer Benmeziane** | People's Democratic Republic of Algeria | 
 |2. | First Runner-Up | **Sambhav Bhurtel** | Federal Democratic Republic of Nepal | 
 |3. | Second Runner-Up | **Prakriti Sharma** | Republic of India | 
-
-2. **First Runner Up: Sambhav Bhurtel, Federal Democratic Republic of Nepal**
-3. **Second Runner Up: Prakriti Sharma, Republic of India**
