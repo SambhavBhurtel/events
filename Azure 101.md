@@ -23,6 +23,7 @@
  4. An Intro to ChatBots - Aishwarya Sapkota
  5. Creating a ChatBot with Azure [**DEMO**] - Rishu Chaudhary
 
+*Day 3 recorded version here*: [Azure 101 - Day 3](https://youtu.be/2X7Si9QXxcw)
 
 
 **Date:** 23 Sep 2020 - 25 Sep 2020
