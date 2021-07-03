@@ -13,4 +13,4 @@
 
 **Date:** 27 Jun 2021- 29 Jun 2021
 
-**Time:** 3:00 PM - 4:30 PM (NPT)
+**Time:** 3:00 PM - 05:00 PM (NPT)
